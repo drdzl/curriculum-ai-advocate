@@ -49,7 +49,7 @@ Pinecone is a vector database provider that we will use in class. Vector databas
 
 9. In the configuration box, select "Setup by model" button to the right and choose the row with the name "text-embeddings-3-small".
 
-![A dialog box showing which models you can select. text-embeddings-3-small is selected.](../images/pinecone_select_model.png)
+![A dialog box showing which models you can select. text-embeddings-3-small is selected. I don't see this in Windows - Don Mackay](../images/pinecone_select_model.png)
 
 10. Leave all other boxes as is and click on the "Create index" button near the bottom of the screen.
 
